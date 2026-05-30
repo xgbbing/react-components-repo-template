@@ -1,7 +1,7 @@
 {
   "name": "@xgb/react-components",
   "version": "0.0.1",
-  "description": "A react library developed with dumi.",
+  "description": "基于 dumi 的 React 组件库项目模板",
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
