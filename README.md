@@ -1,4 +1,4 @@
-# desc
+# react-components template
 
 A react library developed with dumi.
 
